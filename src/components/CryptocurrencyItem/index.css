@@ -1,0 +1,24 @@
+/* Write your CSS code here */
+.logo {
+  height: 35px;
+  width: 35px;
+}
+.logo-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 150px;
+  padding-left: 10px;
+}
+.item_para {
+  color: #ffffff;
+  font-family: 'Robot';
+  margin-left: 20px;
+}
+.list_items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 20px;
+}

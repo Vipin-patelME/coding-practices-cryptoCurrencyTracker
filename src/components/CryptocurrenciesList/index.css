@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+.list-item-cont {
+    text-align: center;
+  display: flex;
+  width: 90%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-head {
+  color: #00e7ff;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+.bg-image {
+  height: 350px;
+  width: 80%;
+}
+.card-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 50px;
+  width: 930px;
+  background-color: #092e33;
+}
+.list-cont-items {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+}
+.card-para {
+  color: #ffffff;
+  margin: 20px;
+  font-family: 'Roboto';
+  font-weight: 510;
+}
+.sub-card {
+  display: flex;
+}
